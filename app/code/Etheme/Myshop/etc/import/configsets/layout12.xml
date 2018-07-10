@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <sections>
+        <web>
+            <default>
+                <cms_home_page>myshop_home_page_12</cms_home_page>
+            </default>
+        </web>
+        <yourstore_settings>
+            <header_settings>
+                <header>8</header>
+            </header_settings>
+            <footer_settings>
+                <footer>4</footer>
+                <spacer>margin-top-0</spacer>
+            </footer_settings>
+        </yourstore_settings>
+    </sections>
+</config>
